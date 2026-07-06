@@ -1,5 +1,10 @@
 /* styles.css */
-
+.background {
+  background-color: #e7ffe4;
+  color: #81005a;
+  font-family: "Tinos", serif;
+  padding: 20px;
+}
 .tinos-regular {
   font-family: "Tinos", serif;
   font-weight: 400;
@@ -23,7 +28,7 @@
   font-weight: 700;
   font-style: italic;
 }
-.yuyu-regular h2 {
+.yuyu-regular {
   font-family: "Yuyu", sans-serif;
   font-weight: 400;
   font-style: normal;
